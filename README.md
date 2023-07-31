@@ -1,7 +1,6 @@
 # Hi there, I'm [Artyom](https://github.com/zaborshikov/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 ### Computer science student at ITMO university, developer of IT education
-I work with large companies and do cool contests and lessons in programming, mathematics, data science and project thinking.
-
+I work with large companies and do cool contests and lessons in programming, mathematics, data science and project thinking. Areas of interest: programming, data science, education, bioinformatics, electronics.
 ### Stack
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
