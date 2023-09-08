@@ -34,6 +34,15 @@ Here are some ideas to get you started:
 
 <a href="https://ru.stackoverflow.com/users/321763/artyom-zaborschicov"><img src="https://ru.stackoverflow.com/users/flair/321763.png" width="208" height="58" alt="Профиль участника Artyom Zaborschicov на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов" title="Профиль участника Artyom Zaborschicov на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов"></a>
 
+## Work and projects
+- An assistant with artificial intelligence to search for toxic comments (teamlead)
+- Mentor of the educational intensive on artificial intelligence for schoolchildren
+- Mentor of many olympiads
+- AI dental assistant (hack)
+- Website for training on accents in words in Russian
+- There are many projects in the field of autonomous transport and medical diagnostics within the framework of the Olympiads
+- ML Golf assistent (hack)
+
 ## My achievements
 - 1st place at the national data analysis hackathon <!-- (github: ; dimploma: ) -->
 - Six-time finalist of the National Technology Olympiad
