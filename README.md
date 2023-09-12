@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 - Website for training on accents in words in Russian
 - There are many projects in the field of autonomous transport and medical diagnostics within the framework of the Olympiads
 - ML Golf assistent (hack)
+- The main technical developer of the international children's hackathon on AI about wildlife
 
 ## My achievements
 - 1st place at the national data analysis hackathon <!-- (github: ; dimploma: ) -->
